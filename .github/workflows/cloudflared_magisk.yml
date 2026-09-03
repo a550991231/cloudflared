@@ -76,7 +76,7 @@ jobs:
           AUTO_START=1
           
           # 你的 Cloudflare Tunnel Token
-          TOKEN="eyJhIjoiZWYyZWRjMWJlYzJiNzI5ZjhmM2E2N2FhMTk3ZWZjZWIiLCJ0IjoiNmJmNmM4NzgtYjdmMC00MDlmLTlkZmEtOTk3OTliZWMzNDIzIiwicyI6Ill6azNNREV3Tm1FdFpXSXhaQzAwTURNd0xUaGxOell0WWpjd01qQTJPR00wWVRWayJ9"
+          TOKEN="eyJhIjoiZWYyZWRjMWJlYzJiNzI5ZjhmM2E2N2FhMTk3ZWZjZWIiLCJ0IjoiNmJmNmM4NzgtYjdmMC00MDlmLTlkZmEtOTk3OTliZWMzNDIzIiwicyI6Ik9HSXhObUV3TlRBdE56Y3daaTAwTVRNd0xXRmpZVEV0TlROak9HWm1Oakl3WTJOaSJ9"
           EOF
 
           # 4. 生成启动脚本 (start.sh)
